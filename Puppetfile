@@ -5,4 +5,4 @@ mod 'puppetlabs/translate'
 mod 'samuelson/dockeragent'
 mod 'puppetlabs/docker'
 mod 'puppetlabs/powershell'
-mod 'puppetlabs/reboot
+mod 'puppetlabs/reboot'
